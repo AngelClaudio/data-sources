@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book>
+        <title>The Brief Wondrous Life of Oscar Wao</title>
+        <author>Junot Diaz</author>
+        <authortwo>Andy Weir</authortwo>
+        <publisher>Riverhead</publisher>
+        <isbn>1-59448-958-0</isbn>
+    </book>
+    <book>
+        <title>Ready Player One</title>
+        <author>Ernest Cline</author>
+        <authortwo>Not Applicable</authortwo>
+        <publisher>Random House</publisher>
+        <isbn>978-0307887436</isbn>
+    </book>
+    <book>
+        <title>The Outsider</title>
+        <author>Stephen King</author>
+        <authortwo>Not Applicable</authortwo>
+        <publisher>Scribner</publisher>
+        <isbn>978-1501180989</isbn>
+    </book>
+</books>
