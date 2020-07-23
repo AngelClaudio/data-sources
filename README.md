@@ -1,2 +1,5 @@
 # data-sources
-Various data sources hosted for exploration and POCs.
+
+* Open data sources in different file formats for consumption
+
+* Files are good for experimenting with different tools
